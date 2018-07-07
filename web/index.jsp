@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="es">
     <head>
-        <link href="images/logo.ico" type="image/x-icon" rel="shortcut icon" />
+        <link href="<%=request.getContextPath()%>/images/logo.ico" type="image/x-icon" rel="shortcut icon" />
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>RLB 7098</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
